@@ -14,14 +14,14 @@
     "prisma:migrate": "yarn prisma migrate dev"
   },
   "devDependencies": {
-    "@types/node": "^20.10.4",
-    "next-exec": "^0.0.5",
-    "prisma": "^5.7.0",
+    "@types/node": "^20.11.16",
+    "next-exec": "^1.0.0",
+    "prisma": "^5.9.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@prisma/client": "^5.7.0"
+    "@prisma/client": "^5.9.1"
   },
   "author": "SoraKumo <info@croud.jp>",
   "description": "",
